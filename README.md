@@ -1,4 +1,4 @@
-## 👋 Hi everyone, I'm Gianluca
+## 👋 Hi everyone, I'm Gianluca D'Abrosca
 
 - 📓 I'm currently studying Big Data Analysis at Università degli Studi di Udine
 
