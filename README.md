@@ -5,6 +5,7 @@
 - 📫 How to reach me:
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-D7008A?style=flat&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/gianluca.dabrosca/)](https://www.instagram.com/gianluca.dabrosca/)
+[![Mail Badge](https://img.shields.io/badge/-mail-0489c9?style=flat&labelColor=0489c9&logo=Mail.Ru&logoColor=white&link=mailto:gianluca.dabrosca.1999@gmail.com)](mailto:gianluca.dabrosca.1999@gmail.com)
 
 <!--
 **dbrglc/dbrglc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
